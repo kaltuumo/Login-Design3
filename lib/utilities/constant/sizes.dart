@@ -13,9 +13,9 @@ class AppSize {
 
   // container intuu kor Ka soo kanaayo
 
-  static const EdgeInsets containerPadding = EdgeInsets.only(top: 230);
+  static const EdgeInsets containerPadding = EdgeInsets.only(top: 190);
 
   // Container Sides Rounded
   // static const EdgeInsets sidePadding = EdgeInsets.only(right: 40, left: 40);
-  static const double sideRadius = 40;
+  static const double sideRadius = 20;
 }

@@ -26,8 +26,12 @@ class _SignupPageState extends State<SignupPage> {
             child: Padding(
               padding: const EdgeInsets.only(top: 70, left: 25),
               child: Text(
-                "Hello\nSign Up",
-                style: TextStyle(color: AppColors.whiteColors, fontSize: 25),
+                "Create Your\nAccount",
+                style: TextStyle(
+                  color: AppColors.whiteColors,
+                  fontSize: 25,
+                  fontWeight: AppSize.apptextFontweight,
+                ),
               ),
             ),
           ),

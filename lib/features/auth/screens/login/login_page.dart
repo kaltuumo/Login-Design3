@@ -74,6 +74,43 @@ class _LoginPageState extends State<LoginPage> {
                         ),
                       ),
                     ),
+
+                    // const SizedBox(height: 20),
+                    // Text(
+                    //   "Email",
+                    //   style: TextStyle(
+                    //     color: Color(0xFF11998E),
+                    //     fontSize: 20,
+                    //     fontWeight: AppSize.apptextFontweight,
+                    //   ),
+                    // ),
+                    // TextField(
+                    //   decoration: InputDecoration(
+                    //     label: Text(AppText.useName),
+                    //     prefixIcon: Icon(
+                    //       Icons.email_outlined,
+                    //       color: AppColors.greyColor,
+                    //     ),
+                    //   ),
+                    // ),
+                    // SizedBox(height: 30),
+                    // Text(
+                    //   "Password",
+                    //   style: TextStyle(
+                    //     color: Color(0xFF11998E),
+                    //     fontSize: 20,
+                    //     fontWeight: AppSize.apptextFontweight,
+                    //   ),
+                    // ),
+                    // TextField(
+                    //   decoration: InputDecoration(
+                    //     hintText: AppText.passName,
+                    //     prefixIcon: Icon(
+                    //       Icons.password_outlined,
+                    //       color: AppColors.greyColor,
+                    //     ),
+                    //   ),
+                    // ),
                     const SizedBox(height: 10),
                     TextButton(
                       onPressed: () {
